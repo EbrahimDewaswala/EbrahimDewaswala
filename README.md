@@ -26,7 +26,7 @@
 
 📚 I’m currently pursuing : Master's in Science (Computer Science)
 
-📄 Wanna view my resume : <a href="https://ebrahimdewaswala.github.io/Resume/">Visit Here</a>
+📄 Wanna see my resume : <a href="https://ebrahimdewaswala.github.io/Resume/">Visit Here</a>
 
 ---
 

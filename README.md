@@ -11,8 +11,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 <p align="center">
-  <a href="https://github.com/EbrahimDewaswala/"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Ebrahim;I+am+a+Software+Developer;Web+Dev;Student+pursuing+MSc(CS)"></a>
+  <a href="https://github.com/EbrahimDewaswala/">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+GitHub+page;I+am+Ebrahim;Software+Developer+by+Profession;Engineer+by+Logic%2C+Artist+by+Code;Completed+MSc+in+Computer+Science;Building+for+the+Web+%26+Beyond;Innovation+is+my+Default+Mode">
+  </a>
 </p>
+
 </h1>
   
 <h2 align="center"><a href="https://ebrahimdewaswala.github.io/Resume/">My Portfolio ✨</a></h2>
@@ -24,7 +27,7 @@
   
 ⚡ I’m currently working at : ELITE INFOSOFT
 
-📚 I’m currently pursuing : Master's in Science (Computer Science)
+🎓 I have completed: Master of Science (Computer Science), SPPU (2025)
 
 📄 Wanna see my resume : <a href="https://ebrahimdewaswala.github.io/Resume/">Visit Here</a>
 

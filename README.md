@@ -25,7 +25,7 @@
 
 🌱 I’m currently working as : Software Developer
   
-⚡ I’m currently working at : ELITE INFOSOFT
+⚡ I’m currently working at : Entrata
 
 🎓 I have completed: Master of Science (Computer Science), SPPU (2025)
 
